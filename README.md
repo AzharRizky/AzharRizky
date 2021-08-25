@@ -7,8 +7,10 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 ### 🌱 Certificate & Patent
 - [Modul Aplikasi Sistem Informasi Akademik Terpadu (SIKADU) Untuk Penilaian Autentik Berbasis Web](https://pdki-indonesia.dgip.go.id/detail/EC00202132865?type=copyright&keyword=SIKADU).
 - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP7176WOPR0).
+- [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP717E0WPR0).
 - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/N9ZOE7R1DXG5).
 - [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/JLX13W756P72).
+- [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KQE7VZ0M).
 
 ### ⚡ Tech Stack
   <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" /></a>
