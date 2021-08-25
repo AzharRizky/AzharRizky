@@ -1,6 +1,6 @@
 ## Welcome to My Portofolio
 
-I'm **Azhar Rizki Zulma** college student at **Trisakti University**.
+I'm **Azhar Rizki Zulma**, college student at **Trisakti University**.
 
 An Independent **Programmer**, **Developer** and **Publisher** with a demonstrated history of working in the information technology industry. Skilled in **Web Development**, **Mobile Development**, and **Cloud Computing**. Interested in **Software Development**, **Computer Networking**, and **Operating Systems**.
 
