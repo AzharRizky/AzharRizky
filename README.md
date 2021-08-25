@@ -13,6 +13,24 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KQE7VZ0M).
 
 ### ⚡ Tech Stack
+<code><img height="25" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
+<code><img height="25" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20150904192833%21R_logo.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
+<!--
 <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" /></a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" /></a>
@@ -29,9 +47,8 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="32px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" /></a>
 <a href="http://postgresql.org/about/licence"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></a>
 <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" width="91px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
-<a href="https://www.kernel.org/"><img align="left" alt="Linux" title="Linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /></a>                                                                                    
-<br />
-<br />
+<a href="https://www.kernel.org/"><img align="left" alt="Linux" title="Linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /></a><br><br>
+-->
 
 ### 👯 Github Statistic
 <p align="left">
