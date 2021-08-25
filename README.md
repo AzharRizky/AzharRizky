@@ -28,7 +28,6 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
   <a href="http://postgresql.org/about/licence"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></a>
   <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" width="91px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
   <a href="https://www.kernel.org/"><img align="left" alt="Linux" title="Linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /></a>
-  <a href=""><img align="left" alt="Github" title="Github" width="21px" src="" /></a>
   <br>
   <br>
   
