@@ -64,7 +64,7 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/azharrizkyz)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/azharrizkyz/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp)](https://wa.me/+6281317441991)
-[![Spotify](https://img.shields.io/badge/-Spotify-black?style=for-the-badge&logo=spotify)](https://wa.me/+6281317441991)
+[![Spotify](https://img.shields.io/badge/-Spotify-black?style=for-the-badge&logo=spotify)](https://open.spotify.com/artist/7mG43AWgnlQIYNbQXsBFfy?si=D4tcTrCrSPSrhljhtCn1_Q)
 <!--
 V 1.1
 <a href="https://linkedin.com/in/azharrizki/"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
