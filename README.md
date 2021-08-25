@@ -53,8 +53,8 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 ### 🔭 Github Statistic
 <p align="left">
 <a href="https://github.com/azharrizky">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
