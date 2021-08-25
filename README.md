@@ -5,12 +5,12 @@ I'm **Azhar Rizki Zulma**, college student at **Trisakti University**.
 An Independent **Programmer**, **Developer** and **Publisher** with a demonstrated history of working in the information technology industry. Skilled in **Web Development**, **Mobile Development**, and **Cloud Computing**. Interested in **Software Development**, **Computer Networking**, and **Operating Systems**.
 
 ### 🏆 Certificate & Patent
-- [Modul Aplikasi Sistem Informasi Akademik Terpadu (SIKADU) Untuk Penilaian Autentik Berbasis Web](https://pdki-indonesia.dgip.go.id/detail/EC00202132865?type=copyright&keyword=SIKADU).
-- [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP7176WOPR0).
-- [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP717E0WPR0).
-- [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/N9ZOE7R1DXG5).
-- [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/JLX13W756P72).
-- [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KQE7VZ0M).
+- [Modul Aplikasi Sistem Informasi Akademik Terpadu (SIKADU) Untuk Penilaian Autentik Berbasis Web](https://pdki-indonesia.dgip.go.id/detail/EC00202132865?type=copyright&keyword=SIKADU)
+- [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP7176WOPR0)
+- [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP717E0WPR0)
+- [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/N9ZOE7R1DXG5)
+- [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/JLX13W756P72)
+- [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KQE7VZ0M)
 
 ### ⚡ Tech Stack
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
@@ -53,19 +53,27 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 ### 📈 Github Statistic
 <p align="left">
 <a href="https://github.com/azharrizky">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=8&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
 ### 📫 Reach me on
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/azharrizki/)
+[![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://facebook.com/azharrizkyz/)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/azharrizkyz)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/azharrizkyz/)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp)](https://wa.me/+6281317441991)
+[![Spotify](https://img.shields.io/badge/-Spotify-black?style=for-the-badge&logo=spotify)](https://wa.me/+6281317441991)
+<!--
+V 1.1
 <a href="https://linkedin.com/in/azharrizki/"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
 <a href="https://instagram.com/azharrizkyz"><img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a>
 <a href="https://twitter.com/azharrizkyz"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/124/124021.png" /></a>
 <a href="https://facebook.com/azharrizkyz"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/124/124010.png" /></a>
 <a href="https://wa.me/+6281317441991"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/124/124034.png" /></a>
 <a href="https://open.spotify.com/artist/7mG43AWgnlQIYNbQXsBFfy?si=D4tcTrCrSPSrhljhtCn1_Q"><img align="left" width="25px" src="https://pbs.twimg.com/profile_images/874206475350007809/4gesoieX_400x400.jpg" /></a>
-<!--
+V 1.0
 - <a href="https://linkedin.com/in/azharrizki/">LinkedIn</a>
 - <a href="https://instagram.com/azharrizkyz">Instagram</a>
 - <a href="https://twitter/azharrizkyz">Twitter</a>
@@ -101,4 +109,24 @@ Here are some ideas to get you started:
 ⏳ Longest streak is 10 days
 
 📈 my github stats
+
+### Connect with me:
+
+
+### Languages and Tools
+![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=orange)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=android-studio&logoColor=4285F4)
+
+### Stats
+<a href="https://github.com/wiryadev">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wiryadev&show_icons=true&theme=dark&line_height=27&count_private=true&include_all_commits=true" alt="wiryadev's github stats"/>
+</a>
+<a href="https://github.com/wiryadev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiryadev&theme=dark&langs_count=3" />
+</a>
+
+### Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=wiryadev&theme=darkhub)
 -->
