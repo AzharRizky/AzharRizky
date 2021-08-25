@@ -59,12 +59,20 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 </p>
 
 ### 💬 Reach me on
+<a href="https://linkedin.com/in/azharrizki/"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+<a href="https://instagram.com/azharrizkyz"><img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a>
+<a href="https://twitter/azharrizkyz"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/124/124021.png" /></a>
+<a href="https://facebook.com/azharrizkyz"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/124/124010.png" /></a>
+<a href="https://wa.me/+6281317441991"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/124/124034.png" /></a>
+<a href="https://open.spotify.com/artist/7mG43AWgnlQIYNbQXsBFfy?si=D4tcTrCrSPSrhljhtCn1_Q"><img align="left" width="25px" src="https://pbs.twimg.com/profile_images/874206475350007809/4gesoieX_400x400.jpg" /></a>
+<!--
 - <a href="https://linkedin.com/in/azharrizki/">LinkedIn</a>
 - <a href="https://instagram.com/azharrizkyz">Instagram</a>
 - <a href="https://twitter/azharrizkyz">Twitter</a>
 - <a href="https://facebook.com/azharrizkyz">Facebook</a>
 - <a href="https://wa.me/+6281317441991">Whatsapp</a>
 - <a href="https://open.spotify.com/artist/7mG43AWgnlQIYNbQXsBFfy?si=D4tcTrCrSPSrhljhtCn1_Q">Spotify</a>
+-->
 
 <!-- ### Hi there 👋 -->
 <!--
