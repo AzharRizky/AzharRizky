@@ -1,10 +1,10 @@
-## 👋 Welcome
+## 👋 Hi there! 😎
 
 I'm **Azhar Rizki Zulma**, college student at **Trisakti University**.
 
 An Independent **Programmer**, **Developer** and **Publisher** with a demonstrated history of working in the information technology industry. Skilled in **Web Development**, **Mobile Development**, and **Cloud Computing**. Interested in **Software Development**, **Computer Networking**, and **Operating Systems**.
 
-### 🌱 Certificate & Patent
+### 🏆 Certificate & Patent
 - [Modul Aplikasi Sistem Informasi Akademik Terpadu (SIKADU) Untuk Penilaian Autentik Berbasis Web](https://pdki-indonesia.dgip.go.id/detail/EC00202132865?type=copyright&keyword=SIKADU).
 - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP7176WOPR0).
 - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP717E0WPR0).
@@ -50,15 +50,15 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 <a href="https://www.kernel.org/"><img align="left" alt="Linux" title="Linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /></a><br><br>
 -->
 
-### 🔭 Github Statistic
+### 📈 Github Statistic
 <p align="left">
 <a href="https://github.com/azharrizky">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=8&theme=prussian"/>
 </a>
 </p>
 
-### 💬 Reach me on
+### 📫 Reach me on
 <a href="https://linkedin.com/in/azharrizki/"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
 <a href="https://instagram.com/azharrizkyz"><img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a>
 <a href="https://twitter.com/azharrizkyz"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/124/124021.png" /></a>
@@ -88,4 +88,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+😎
+
+💼 any freelance work? do reach, email :)
+💬 ask me about anything, i am happy to help;
+📊 this week i spent my time on:
+🚧 my todoist stats:
+
+🏆 7,936 Karma Points
+🌸 Completed 0 tasks today
+✅ Completed 663 tasks so far
+⏳ Longest streak is 10 days
+
+📈 my github stats
 -->
