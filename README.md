@@ -1,4 +1,4 @@
-## Welcome to My Portofolio
+## 👋 Welcome to My Portofolio
 
 I'm **Azhar Rizki Zulma**, college student at **Trisakti University**.
 
