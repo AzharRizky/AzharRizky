@@ -1,10 +1,10 @@
-## 👋 Hi there! 😎
+# 👋 Hi there! 😎
 
 I'm **Azhar Rizki Zulma**, college student at **Trisakti University**.
 
-An Independent **Programmer**, **Developer** and **Publisher** with a demonstrated history of working in the information technology industry. Skilled in **Web Development**, **Mobile Development**, and **Cloud Computing**. Interested in **Software Development**, **Computer Networking**, and **Operating Systems**.
+An Independent <code>**Programmer**</code>, <code>**Developer**</code> and <code>**Publisher**</code> with a demonstrated history of working in the information technology industry. Skilled in <code>**Web Development**</code>, <code>**Mobile Development**</code>, and <code>**Cloud Computing**</code>. Interested in <code>**Software Development**</code>, <code>**Computer Networking**</code>, and <code>**Operating Systems**</code>.
 
-### 🏆 Certificate & Patent
+## 🏆 Certificate & Patent
 - [Modul Aplikasi Sistem Informasi Akademik Terpadu (SIKADU) Untuk Penilaian Autentik Berbasis Web](https://pdki-indonesia.dgip.go.id/detail/EC00202132865?type=copyright&keyword=SIKADU)
 - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP7176WOPR0)
 - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP717E0WPR0)
@@ -12,7 +12,43 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 - [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/JLX13W756P72)
 - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KQE7VZ0M)
 
-### ⚡ Tech Stack
+## ⚡ Tool Stack
+### Markup Languages:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Programming Languages:
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Frameworks:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-00599C?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Technologies:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<!--
+V 1.0.1
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></code>
@@ -30,7 +66,7 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
-<!--
+V 1.0.0
 <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" /></a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" /></a>
@@ -50,7 +86,7 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 <a href="https://www.kernel.org/"><img align="left" alt="Linux" title="Linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /></a><br><br>
 -->
 
-### 📈 Github Statistic
+## 📈 Github Statistic
 <p align="left">
 <a href="https://github.com/azharrizky">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
@@ -58,13 +94,30 @@ An Independent **Programmer**, **Developer** and **Publisher** with a demonstrat
 </a>
 </p>
 
-### 📫 Reach me on
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/azharrizki/)
-[![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://facebook.com/azharrizkyz/)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/azharrizkyz)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/azharrizkyz/)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=whatsapp)](https://wa.me/+6281317441991)
-[![Spotify](https://img.shields.io/badge/-Spotify-black?style=for-the-badge&logo=spotify)](https://open.spotify.com/artist/7mG43AWgnlQIYNbQXsBFfy?si=D4tcTrCrSPSrhljhtCn1_Q)
+## 📫 Reach me on
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azharrizki/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/azharrizkyz/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azharrizkyz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azharrizkyz/)
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/azharrizkyz)
+[![LINE](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/bpWnobBcKO)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azharrizkyz)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6281317441991)
+
+
+## 🎮 Wanna play with me?
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nzWXePCBrg)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/AzharRizky)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/en-us/profile?gamertag=Azhar%20Rizky%20Z)
+
+## 🎶 Listen my music on
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7mG43AWgnlQIYNbQXsBFfy?si=D4tcTrCrSPSrhljhtCn1_Q)
+[![iTunes](https://img.shields.io/badge/iTunes-EA4CC0?style=for-the-badge&logo=itunes&logoColor=white)](https://geo.music.apple.com/album/1523204340?uo=4&app=itunes&mt=1&at=1010l36iy&ct=bq&Is=1&ls=1)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-F94C57?style=for-the-badge&logo=apple-music&logoColor=white)](https://geo.music.apple.com/album/1523204340?uo=4&app=music&mt=1&at=1010l36iy&ct=bq&Is=1&ls=1)
+[![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=OLAK5uy_lSH-WHAaRXY09CdcqqGZay_HWq7O9_zdg&feature=share)
+[![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](http://www.deezer.com/album/157456392)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hawk104614/sets/beginning-134204629)
+[![Amazon Music](https://img.shields.io/badge/Amazon%20Music-0DBFF5?style=for-the-badge&logo=amazon&logoColor=white)](https://music.amazon.com/albums/B08BXR132K?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&tag=bandlnk-20)
 <!--
 V 1.1
 <a href="https://linkedin.com/in/azharrizki/"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
