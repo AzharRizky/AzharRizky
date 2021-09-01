@@ -14,6 +14,7 @@ An Independent <code>**Programmer**</code>, <code>**Developer**</code> and <code
 - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/N9ZOE7R1DXG5)
 - [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/JLX13W756P72)
 - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KQE7VZ0M)
+- [Belajar Membuat Augmented Reality dengan Lens Studio](https://www.dicoding.com/certificates/53XEWO150XRN)
 
 ## ⚡ Tool Stack
 ### Markup Languages:
