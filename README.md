@@ -104,7 +104,7 @@ V 1.0.0
 <a href="https://github.com/azharrizky">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizky"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizky&theme=highcontrast"/>
 </a>
 </p>
 
