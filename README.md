@@ -134,9 +134,9 @@ V 1.0.0
 [![iTunes](https://img.shields.io/badge/iTunes-EA4CC0?style=for-the-badge&logo=itunes&logoColor=white)](https://geo.music.apple.com/album/1523204340?uo=4&app=itunes&mt=1&at=1010l36iy&ct=bq&Is=1&ls=1)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-F94C57?style=for-the-badge&logo=apple-music&logoColor=white)](https://geo.music.apple.com/album/1523204340?uo=4&app=music&mt=1&at=1010l36iy&ct=bq&Is=1&ls=1)
 [![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=OLAK5uy_lSH-WHAaRXY09CdcqqGZay_HWq7O9_zdg&feature=share)
+[![Amazon Music](https://img.shields.io/badge/Amazon%20Music-0DBFF5?style=for-the-badge&logo=amazon&logoColor=white)](https://music.amazon.com/albums/B08BXR132K?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&tag=bandlnk-20)
 [![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](http://www.deezer.com/album/157456392)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hawk104614/sets/beginning-134204629)
-[![Amazon Music](https://img.shields.io/badge/Amazon%20Music-0DBFF5?style=for-the-badge&logo=amazon&logoColor=white)](https://music.amazon.com/albums/B08BXR132K?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&tag=bandlnk-20)
 <!--
 V 1.1
 <a href="https://linkedin.com/in/azharrizki/"><img align="left" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
