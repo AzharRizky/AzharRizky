@@ -10,6 +10,7 @@ An Independent <code>**Programmer**</code>, <code>**Developer**</code> and <code
 - [Memulai Pemrograman Dengan Java](https://www.dicoding.com/certificates/JMZV233L3ZN9)
 - [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/0LZ0366RRZ65)
 - [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates/4EXG6Q2W9ZRL)
+- [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/GRX5K32NYZ0M)
 - [Belajar Membuat Aplikasi Android Untuk Pemula](https://www.dicoding.com/certificates/MRZMKYYJLPYQ)
 - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP7176WOPR0)
 - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP717E0WPR0)
