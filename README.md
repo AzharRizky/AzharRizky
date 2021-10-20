@@ -112,7 +112,7 @@ V 1.0.0
 </a>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=azharrizky&theme=onedark&column=7&margin-w=10" alt="logo" height="160" align="center" />
+<img src="https://github-profile-trophy.vercel.app/?username=azharrizky&theme=onestar&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
 ## 🛒 Download My Application Here
 [![Google Play Store](https://img.shields.io/badge/Google_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7070273527676427905)
