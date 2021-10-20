@@ -102,14 +102,17 @@ V 1.0.0
 <a href="https://www.kernel.org/"><img align="left" alt="Linux" title="Linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /></a><br><br>
 -->
 
-## 📈 Github Statistic
+## 📈 Github Statistic ![Profile View Counter](https://komarev.com/ghpvc/?username=azharrizky)
 <p align="left">
 <a href="https://github.com/azharrizky">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizky&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
 </a>
 </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=azharrizky&theme=onedark&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
 ## 🛒 Download My Application Here
 [![Google Play Store](https://img.shields.io/badge/Google_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7070273527676427905)
