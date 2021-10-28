@@ -19,6 +19,7 @@ An Independent <code>**Programmer**</code>, <code>**Developer**</code> and <code
 - [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/JLX13W756P72)
 - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KQE7VZ0M)
 - [Belajar Membuat Augmented Reality dengan Lens Studio](https://www.dicoding.com/certificates/53XEWO150XRN)
+- [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/2VX320YDVPYQ)
 
 ## ⚡ Tool Stack
 ### Markup Languages:
