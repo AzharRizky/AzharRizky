@@ -106,14 +106,18 @@ V 1.0.0
 ## 📈 Github Statistic ![Profile View Counter](https://komarev.com/ghpvc/?username=azharrizky)
 <p align="left">
 <a href="https://github.com/azharrizky">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizky&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
+  <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+  <img width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizky&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
+  <img width="44%" src="https://github-profile-trophy.vercel.app/?username=azharrizky&theme=onestar&column=4&margin-w=10&margin-h=10"/>
 </a>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=azharrizky&theme=onestar&column=8&margin-w=10&margin-h=10" alt="logo" height="160" align="center" />
+---
+
+![Azhar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AzharRizky&hide_border=true&theme=react-dark&bg_color=000000)
+
+---
 
 ## 🛒 Download My Application Here
 [![Google Play Store](https://img.shields.io/badge/Google_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7070273527676427905)
