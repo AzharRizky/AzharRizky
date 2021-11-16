@@ -4,6 +4,7 @@ I'm **Azhar Rizki Zulma**, college student at **Trisakti University**.
 
 An Independent <code>**Programmer**</code>, <code>**Developer**</code> and <code>**Publisher**</code> with a demonstrated history of working in the information technology industry. Skilled in <code>**Web Development**</code>, <code>**Mobile Development**</code>, and <code>**Cloud Computing**</code>. Interested in <code>**Software Development**</code>, <code>**Computer Networking**</code>, and <code>**Operating Systems**</code>.
 
+<!---
 ## 🏆 Certificate & Patent
 - [Modul Aplikasi Sistem Informasi Akademik Terpadu (SIKADU) Untuk Penilaian Autentik Berbasis Web](https://pdki-indonesia.dgip.go.id/detail/EC00202132865?type=copyright&keyword=SIKADU)
 - [Memulai Pemrograman Dengan C](https://www.dicoding.com/certificates/KEXL311JRPG2)
@@ -21,6 +22,7 @@ An Independent <code>**Programmer**</code>, <code>**Developer**</code> and <code
 - [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/JLX13W756P72)
 - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KQE7VZ0M)
 - [Belajar Membuat Augmented Reality dengan Lens Studio](https://www.dicoding.com/certificates/53XEWO150XRN)
+--->
 
 ## ⚡ Tool Stack
 ### Markup Languages:
