@@ -11,6 +11,7 @@ An Independent <code>**Programmer**</code>, <code>**Developer**</code> and <code
 - [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/0LZ0366RRZ65)
 - [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates/4EXG6Q2W9ZRL)
 - [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/2VX320YDVPYQ)
+- [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/certificates/NVP71W814PR0)
 - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/GRX5K32NYZ0M)
 - [Belajar Membuat Aplikasi Android Untuk Pemula](https://www.dicoding.com/certificates/MRZMKYYJLPYQ)
 - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP7176WOPR0)
