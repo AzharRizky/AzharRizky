@@ -118,7 +118,7 @@ V 1.0.0
 
 ---
 
-![Azhar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AzharRizky&hide_border=true&theme=react-dark&bg_color=000000)
+![Azhar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AzharRizky&hide_border=true&theme=react-dark&bg_color=000000&color=FFFFFF)
 
 ---
 
