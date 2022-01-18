@@ -1,4 +1,4 @@
-![Azhar Rizki Zulma's card name](https://cardivo.vercel.app/api?name=Azhar%20Rizki%20Zulma&description=Hi,%20i%27m%20a%20Data%20Scientist,%20Multiplatform,%20and%20Fullstack%20developer%20with%20a%20demonstrated%20history%20of%20working%20in%20the%20information%20technology%20industry%20%F0%9F%91%8B&image=https://zulma.id/assets/images/azhar.png&backgroundColor=%23ecf0f1&instagram=AzharRizkyZ&linkedin=Azhar%20Rizki%20Zulma&github=AzharRizky&twitter=AzharRizkyZ&pattern=bubbles&colorPattern=%23eaeaea)
+![Azhar Rizki Zulma's card name](https://cardivo.vercel.app/api?name=Azhar%20Rizki%20Zulma&description=Hi,%20i%27m%20a%20Data%20Scientist,%20Multiplatform,%20and%20Fullstack%20developer%20with%20a%20demonstrated%20history%20of%20working%20in%20the%20information%20technology%20industry%20%F0%9F%91%8B&image=https://zulma.id/assets/images/azhar.png&instagram=AzharRizkyZ&linkedin=Azhar%20Rizki%20Zulma&github=AzharRizky&twitter=AzharRizkyZ&pattern=floatingCogs&opacity=0.1&backgroundColor=%23ddd&site=https://zulma.id)
 
 ## 📈 Github Statistic ![Profile View Counter](https://komarev.com/ghpvc/?username=azharrizky)
 <p align="left">
