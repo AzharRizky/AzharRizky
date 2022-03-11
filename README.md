@@ -25,6 +25,12 @@
   <a href="https://badges.pufler.dev" target="_blank">
       <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
   </a>
+  <a href="https://badges.pufler.dev" target="_blank">
+      <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizky" alt="Created Badge"/>
+  </a>
+  <a href="https://badges.pufler.dev" target="_blank">
+      <img src="https://badges.pufler.dev/updated/AzharRizky/AzharRizky" alt="Update Badge"/>
+  </a>
   <!-- <a href="https://github.com/azharrizky/" target="_blank">
       <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="Azhar Rizky"/>
   </a> --->
