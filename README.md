@@ -5,28 +5,14 @@
 <h1 align="center"> 📈 Github Statistic </h1>
 <p align="center">
   <a href="https://github.com/AzharRizky/" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
-  </a>
-  <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/>
-  </a>
-  <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://badges.pufler.dev/repos/AzharRizky?style=flat-square" alt="Repos Badge"/>
-  </a>
-  <!-- <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://badges.pufler.dev/gists/AzharRizky?style=flat-square" alt="Gists Badge"/>
-  </a> -->
-  <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://badges.pufler.dev/commits/monthly/AzharRizky?style=flat-square" alt="Commits Badge"/>
-  </a>
-  <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
-  </a>
-  <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+Stars&style=social" alt="GitHub User's stars"/>
-  </a>
-  <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://img.shields.io/github/stars/mineversal?label=Organization+Stars&style=social" alt="GitHub Organization's stars"/>
+    <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
+    <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/>
+    <img src="https://badges.pufler.dev/repos/AzharRizky?style=flat-square" alt="Repos Badge"/>
+    <!-- <img src="https://badges.pufler.dev/gists/AzharRizky?style=flat-square" alt="Gists Badge"/> --->
+    <img src="https://badges.pufler.dev/commits/monthly/AzharRizky?style=flat-square" alt="Commits Badge"/>
+    <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
+    <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
   </a>
   <!-- <a href="https://badges.pufler.dev" target="_blank">
       <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizky?style=flat-square" alt="Created Badge"/>
