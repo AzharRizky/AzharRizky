@@ -23,15 +23,18 @@
       <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
   </a>
   <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
+      <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+Stars&style=social" alt="GitHub User's stars"/>
   </a>
   <a href="https://badges.pufler.dev" target="_blank">
+      <img src="https://img.shields.io/github/stars/mineversal?label=Organization+Stars&style=social" alt="GitHub Organization's stars"/>
+  </a>
+  <!-- <a href="https://badges.pufler.dev" target="_blank">
       <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizky?style=flat-square" alt="Created Badge"/>
   </a>
   <a href="https://badges.pufler.dev" target="_blank">
       <img src="https://badges.pufler.dev/updated/AzharRizky/AzharRizky?style=flat-square" alt="Update Badge"/>
   </a>
-  <!-- <a href="https://github.com/azharrizky/" target="_blank">
+  <a href="https://github.com/azharrizky/" target="_blank">
       <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="Azhar Rizky"/>
   </a> --->
   <a href="https://github.com/azharrizky">
