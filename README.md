@@ -4,25 +4,6 @@
   
 <h1 align="center"> 📈 Github Statistic </h1>
 <p align="center">
-  <a href="https://github.com/AzharRizky/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
-    <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/>
-    <img src="https://badges.pufler.dev/repos/AzharRizky?style=flat-square" alt="Repos Badge"/>
-    <!-- <img src="https://badges.pufler.dev/gists/AzharRizky?style=flat-square" alt="Gists Badge"/> --->
-    <img src="https://badges.pufler.dev/commits/monthly/AzharRizky?style=flat-square" alt="Commits Badge"/>
-    <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
-    <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
-    <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
-  </a>
-  <!-- <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizky?style=flat-square" alt="Created Badge"/>
-  </a>
-  <a href="https://badges.pufler.dev" target="_blank">
-      <img src="https://badges.pufler.dev/updated/AzharRizky/AzharRizky?style=flat-square" alt="Update Badge"/>
-  </a>
-  <a href="https://github.com/azharrizky/" target="_blank">
-      <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="Azhar Rizky"/>
-  </a> --->
   <a href="https://github.com/azharrizky">
     <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
@@ -35,5 +16,27 @@
 <h1 align="center"> 🎶 Listen Now </h1>
 <p align="center">
   <img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=Nothing+to+do+here;Go+away" alt="Typing SVG"> 
 </p>
+
+<!--
+  <a href="https://github.com/AzharRizky/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
+    <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/>
+    <img src="https://badges.pufler.dev/repos/AzharRizky?style=flat-square" alt="Repos Badge"/>
+    <img src="https://badges.pufler.dev/gists/AzharRizky?style=flat-square" alt="Gists Badge"/>
+    <img src="https://badges.pufler.dev/commits/monthly/AzharRizky?style=flat-square" alt="Commits Badge"/>
+    <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
+    <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
+  </a>
+  <a href="https://badges.pufler.dev" target="_blank">
+      <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizky?style=flat-square" alt="Created Badge"/>
+  </a>
+  <a href="https://badges.pufler.dev" target="_blank">
+      <img src="https://badges.pufler.dev/updated/AzharRizky/AzharRizky?style=flat-square" alt="Update Badge"/>
+  </a>
+  <a href="https://github.com/azharrizky/" target="_blank">
+      <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="Azhar Rizky"/>
+  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=Nothing+to+do+here;Go+away" alt="Typing SVG">
+--->
