@@ -4,6 +4,13 @@
   
 <h1 align="center"> 📈 Github Statistic </h1>
 <p align="center">
+  <a href="https://github.com/azharrizky">
+    <img width="60.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
+    <img width="38.7%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+    <img width="55.1%" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizky&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
+    <img width="44.4%" src="https://github-profile-trophy.vercel.app/?username=azharrizky&theme=onestar&column=4&margin-w=10&margin-h=10"/>
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AzharRizky&theme=react-dark&bg_color=000000&color=FFFFFF"/>
+  </a>
   <a href="https://github.com/AzharRizky/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
     <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/>
@@ -23,13 +30,6 @@
   <a href="https://github.com/azharrizky/" target="_blank">
       <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="Azhar Rizky"/>
   </a> --->
-  <a href="https://github.com/azharrizky">
-    <img width="60.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
-    <img width="38.7%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
-    <img width="55.1%" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizky&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
-    <img width="44.4%" src="https://github-profile-trophy.vercel.app/?username=azharrizky&theme=onestar&column=4&margin-w=10&margin-h=10"/>
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AzharRizky&theme=react-dark&bg_color=000000&color=FFFFFF"/>
-  </a>
 </p>
 
 <h1 align="center"> 🎶 Listen Now </h1>
