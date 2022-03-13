@@ -2,7 +2,7 @@
   <img width="100%" src="https://cardivo.vercel.app/api?name=Azhar%20Rizki%20Zulma&description=Hi,%20I%27m%20a%20Data%20Scientist,%20Multiplatform,%20and%20Fullstack%20developer%20with%20a%20demonstrated%20history%20of%20working%20in%20the%20information%20technology%20industry%20%F0%9F%91%8B&image=https://zulma.id/assets/images/azhar.png&instagram=AzharRizkyZ&linkedin=Azhar%20Rizki%20Zulma&github=AzharRizky&twitter=AzharRizkyZ&pattern=floatingCogs&opacity=0.1&backgroundColor=%23ddd&site=https://zulma.id">
 </p>
   
-<h1 align="center"> 📈 Github Statistic </h1>
+<h1 align="center">📈 Github Statistic 📊</h1>
 <p align="center">
   <a href="https://github.com/azharrizky">
     <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharrizky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h1 align="center"> 🎶 Listen Now </h1>
+<h1 align="center">🎶 Listen Now 🎧</h1>
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&redirect=true">
     <img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
