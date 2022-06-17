@@ -20,9 +20,8 @@
   </a>
 </p>
 
+---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=I+love+Programming;Nature;Astronomy;Hiking;Exploring;History;Anime;Research;And+create+some+music" alt="Typing SVG">
-  <br>
   <a href="https://github.com/AzharRizky/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
     <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/>
@@ -43,5 +42,6 @@
   <a href="https://github.com/azharrizky/" target="_blank">
       <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="Azhar Rizky"/>
   </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=I+love+Programming;Nature;Astronomy;Hiking;Exploring;History;Anime;Research;And+create+some+music" alt="Typing SVG">
   -->
 </p>
