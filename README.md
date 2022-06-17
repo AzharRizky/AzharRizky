@@ -20,17 +20,20 @@
   </a>
 </p>
 
-<!--
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=I+love+Programming;Nature;Astronomy;Hiking;Exploring;History;Anime;Research;And+create+some+music" alt="Typing SVG">
+  <br>
   <a href="https://github.com/AzharRizky/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
     <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/>
     <img src="https://badges.pufler.dev/repos/AzharRizky?style=flat-square" alt="Repos Badge"/>
-    <img src="https://badges.pufler.dev/gists/AzharRizky?style=flat-square" alt="Gists Badge"/>
+    <!-- <img src="https://badges.pufler.dev/gists/AzharRizky?style=flat-square" alt="Gists Badge"/> -->
     <img src="https://badges.pufler.dev/commits/monthly/AzharRizky?style=flat-square" alt="Commits Badge"/>
     <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
     <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
   </a>
+  <!--
   <a href="https://badges.pufler.dev" target="_blank">
       <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizky?style=flat-square" alt="Created Badge"/>
   </a>
@@ -40,5 +43,5 @@
   <a href="https://github.com/azharrizky/" target="_blank">
       <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="Azhar Rizky"/>
   </a>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=Nothing+to+do+here;Go+away" alt="Typing SVG">
---->
+  -->
+</p>
