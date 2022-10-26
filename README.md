@@ -14,17 +14,17 @@
   </a>
 </p>
 
-<h1 align="center">🎶 Listen Now 🎧</h1>
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&redirect=true">
-    <img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
-
 <h1 align="center">🐍 Snake Game 🪱</h1>
 <p align="center">
   <a href="https://github.com/azharrizky">
     <img width="100%" src="https://github.com/AzharRizky/AzharRizky/blob/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
+
+<h1 align="center">🎶 Listen Now 🎧</h1>
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&redirect=true">
+    <img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 
