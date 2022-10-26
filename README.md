@@ -14,6 +14,13 @@
   </a>
 </p>
 
+<h1 align="center">🐍 Snake Game 🪱</h1>
+<p align="center">
+  <a href="https://github.com/azharrizky">
+    <img width="100%" src="https://github.com/AzharRizky/AzharRizky/blob/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
+
 <h1 align="center">🎶 Listen Now 🎧</h1>
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&redirect=true">
@@ -32,6 +39,7 @@
     <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
     <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
+    <img src="https://gpvc.arturio.dev/AzharRizky" alt="Profile Views" height="20">
   </a>
   <!--
   <a href="https://badges.pufler.dev" target="_blank">
@@ -45,3 +53,5 @@
   </a>
   -->
 </p>
+
+
