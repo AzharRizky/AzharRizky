@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
     <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
-    <img src="https://gpvc.arturio.dev/aNdr3W03" alt="Profile Views" height="25"> 
+    <img src="https://gpvc.arturio.dev/AzharRizky" alt="Profile Views" height="20">
   </a>
   <!--
   <a href="https://badges.pufler.dev" target="_blank">
