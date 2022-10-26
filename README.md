@@ -14,10 +14,17 @@
   </a>
 </p>
 
-<h1 align="center">🐍 Snake Game 🪱</h1>
+<h1 align="center">🐍 Snake 🪱</h1>
 <p align="center">
   <a href="https://github.com/azharrizky">
     <img width="100%" src="https://github.com/AzharRizky/AzharRizky/blob/snek-output/github-contribution-grid-snake.svg">
+  </a>
+</p>
+
+<h1 align="center">🎨 Artwork 🖼️</h1>
+<p align="center">
+  <a href="https://github.com/azharrizky">
+    <img width="100%" src="./gitartwork.svg">
   </a>
 </p>
 
