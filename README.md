@@ -21,6 +21,13 @@
   </a>
 </p>
 
+<h1 align="center">🐍 Snake Game 🪱</h1>
+<p align="center">
+  <a href="https://github.com/azharrizky">
+    <img width="100%" src="https://github.com/AzharRizky/AzharRizky/blob/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
+
 ---
 <p align="center">
   <a href="https://github.com/AzharRizky/" target="_blank">
@@ -46,3 +53,5 @@
   </a>
   -->
 </p>
+
+
