@@ -13,7 +13,7 @@
         - uses: jasineri/gitartwork@v1
           with:
               # Use this username's contribution graph  
-              user_name: AzharRizky
+              user_name: ${{ github.repository_owner }}
               # Text on contribution graph 
               text: JOE HAWK
         - uses: jasineri/simple-push-action@v1
