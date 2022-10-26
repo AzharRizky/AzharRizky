@@ -24,7 +24,7 @@
 ---
 <p align="center">
   <a href="https://github.com/AzharRizky/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20Views&style=flat-square" alt="Azhar Rizky"/>
+    <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
     <!-- <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/> -->
     <!-- <img src="https://badges.pufler.dev/repos/AzharRizky?style=flat-square" alt="Repos Badge"/> -->
     <!-- <img src="https://badges.pufler.dev/gists/AzharRizky?style=flat-square" alt="Gists Badge"/> -->
