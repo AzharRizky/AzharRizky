@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;Welcome+To+My+Profile;I+love+Programming;Nature;Astronomy;Hiking;Exploring;History;Anime;Research;And+create+some+music" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇;👨‍💻+I+love+Programming+💻;🌱+Nature+🌸;🌠+Astronomy+🌌;🧗‍♂️+Hiking+🗻;🧭+Exploring+🗺️;⌛+History+📜;🗾+Anime+🏯;📰+Research+🏆;🎼+And+create+some+Music+🎵" alt="Typing SVG">
   <img width="100%" src="https://cardivo.vercel.app/api?name=Azhar%20Rizki%20Zulma&description=Hi,%20I%27m%20a%20Data%20Scientist,%20Multiplatform,%20and%20Fullstack%20developer%20with%20a%20demonstrated%20history%20of%20working%20in%20the%20information%20technology%20industry%20%F0%9F%91%8B&image=https://id.zulma.id/assets/images/azhar.png&instagram=AzharRizkyZ&linkedin=Azhar%20Rizki%20Zulma&github=AzharRizky&twitter=AzharRizkyZ&pattern=floatingCogs&opacity=0.1&backgroundColor=%23ddd&site=https://zulma.id">
 </p>
   
@@ -14,6 +14,20 @@
   </a>
 </p>
 
+<h1 align="center">🐍 Snake 🪱</h1>
+<p align="center">
+  <a href="https://github.com/azharrizky">
+    <img width="100%" src="https://github.com/AzharRizky/AzharRizky/blob/snek-output/github-contribution-grid-snake.svg">
+  </a>
+</p>
+
+<h1 align="center">🎨 Artwork 🖼️</h1>
+<p align="center">
+  <a href="https://github.com/azharrizky">
+    <img width="100%" src="./gitartwork.svg">
+  </a>
+</p>
+
 <h1 align="center">🎶 Listen Now 🎧</h1>
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&redirect=true">
@@ -25,6 +39,7 @@
 <p align="center">
   <a href="https://github.com/AzharRizky/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
+    <img src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="Azhar Rizky"/>
     <!-- <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/> -->
     <!-- <img src="https://badges.pufler.dev/repos/AzharRizky?style=flat-square" alt="Repos Badge"/> -->
     <!-- <img src="https://badges.pufler.dev/gists/AzharRizky?style=flat-square" alt="Gists Badge"/> -->
@@ -32,6 +47,8 @@
     <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
     <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
+    <img src="https://gpvc.arturio.dev/AzharRizky" alt="Profile Views" height="20">
+    <img src="https://profile-counter.glitch.me/AzharRizky/count.svg" height="20"/>
   </a>
   <!--
   <a href="https://badges.pufler.dev" target="_blank">
@@ -45,3 +62,5 @@
   </a>
   -->
 </p>
+
+
