@@ -14,20 +14,6 @@
   </a>
 </p>
 
-<h1 align="center">🐍 Snake 🪱</h1>
-<p align="center">
-  <a href="https://github.com/azharrizky">
-    <img width="100%" src="https://github.com/AzharRizky/AzharRizky/blob/snek-output/github-contribution-grid-snake.svg">
-  </a>
-</p>
-
-<h1 align="center">🎨 Artwork 🖼️</h1>
-<p align="center">
-  <a href="https://github.com/azharrizky">
-    <img width="100%" src="./gitartwork.svg">
-  </a>
-</p>
-
 <h1 align="center">🎶 Listen Now 🎧</h1>
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&redirect=true">
