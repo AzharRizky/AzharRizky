@@ -54,10 +54,10 @@
     <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
     <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
-    <img src="https://gpvc.arturio.dev/AzharRizky" alt="Profile Views" height="20">
     <img src="https://profile-counter.glitch.me/AzharRizky/count.svg" height="20"/>
   </a>
   <!--
+  <img src="https://gpvc.arturio.dev/AzharRizky" alt="Profile Views" height="20">
   <a href="https://badges.pufler.dev" target="_blank">
       <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizky?style=flat-square" alt="Created Badge"/>
   </a>
