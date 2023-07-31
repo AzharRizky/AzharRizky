@@ -17,7 +17,7 @@
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
     <img width="49.1%" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizky&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
     <img width="49.6%" src="https://github-profile-trophy.vercel.app/?username=azharrizky&theme=onestar&column=5&margin-w=10&margin-h=10"/>
-    <img width="99.4%" src="github-readme-activity-graph.vercel.app/graph?username=AzharRizky&theme=react-dark&bg_color=000000&color=FFFFFF"/>
+    <img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzharRizky&theme=react-dark&bg_color=000000&color=FFFFFF"/>
   </a>
 </p>
 
