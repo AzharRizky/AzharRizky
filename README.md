@@ -17,14 +17,14 @@
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharrizky&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
     <img width="49.1%" src="https://github-readme-streak-stats.herokuapp.com/?user=AzharRizky&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
     <img width="49.6%" src="https://github-profile-trophy.vercel.app/?username=azharrizky&theme=onestar&column=5&margin-w=10&margin-h=10"/>
-    <img width="99.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AzharRizky&theme=react-dark&bg_color=000000&color=FFFFFF"/>
+    <img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzharRizky&theme=react-dark&bg_color=000000&color=FFFFFF"/>
   </a>
 </p>
 
 <h1 align="center">🐍 Snake 🐛</h1>
 <p align="center">
   <a href="https://github.com/azharrizky">
-    <img width="100%" src="https://github.com/AzharRizky/AzharRizky/blob/snek-output/github-contribution-grid-snake.svg">
+    <img width="100%" src="https://github.com/AzharRizky/AzharRizky/blob/snek-output/github-contribution-grid-snake-dark.svg">
   </a>
 </p>
 
@@ -54,10 +54,10 @@
     <img src="https://img.shields.io/github/followers/AzharRizky?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/AzharRizky?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
     <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
-    <img src="https://gpvc.arturio.dev/AzharRizky" alt="Profile Views" height="20">
     <img src="https://profile-counter.glitch.me/AzharRizky/count.svg" height="20"/>
   </a>
   <!--
+  <img src="https://gpvc.arturio.dev/AzharRizky" alt="Profile Views" height="20">
   <a href="https://badges.pufler.dev" target="_blank">
       <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizky?style=flat-square" alt="Created Badge"/>
   </a>
