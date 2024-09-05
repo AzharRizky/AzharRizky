@@ -124,5 +124,5 @@ writeFile("yo.md", &"""<p align="center">
         </p>
 </details> -->
 
-Updated: {utc7Time.format("YYYY-MM-DD HH:mm:ss")} Western Indonesia Time
+Updated: {utc7Time.format("dd/MM/yyyy HH:mm:ss")} Western Indonesia Time
 """)
