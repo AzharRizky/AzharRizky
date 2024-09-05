@@ -1,6 +1,9 @@
 from datetime import datetime, timedelta
 import re
 
+from datetime import datetime, timedelta
+import re
+
 def generate():
     with open("./README.md") as f:
         readme_content = f.read()
@@ -11,7 +14,7 @@ def generate():
 
     now_utc_plus_7 = now_utc + utc_plus_7
     
-    readme_replacement = f'Updated: {now_utc_plus_7.strftime("%Y-%m-%d %H:%M:%S")}'
+    readme_replacement = f'Updated: {now_utc_plus_7.strftime("%Y-%m-%d %H:%M:%S")} Western Indonesia Time'
     new_readme = re.sub('Updated: .*', readme_replacement, readme_content)
 
     with open("./README.md", "w") as f:
