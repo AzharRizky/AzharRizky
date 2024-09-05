@@ -1,9 +1,6 @@
 from datetime import datetime, timedelta
 import re
 
-from datetime import datetime, timedelta
-import re
-
 def generate():
     with open("./README.md") as f:
         readme_content = f.read()
