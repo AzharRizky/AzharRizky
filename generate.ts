@@ -14,7 +14,7 @@ function formatDateTime(date: Date, timeZone: string): string {
         timeZone: timeZone,
     };
 
-    return new Intl.DateTimeFormat('id-ID', options).format(date);
+    return new Intl.DateTimeFormat('en-US', options).format(date);
 }
 
 (async () => {
@@ -23,7 +23,7 @@ function formatDateTime(date: Date, timeZone: string): string {
     encoding: 'utf-8',
   });
 
-  const utcPlus7 = 'Asia/Bangkok';
+  const utcPlus7 = 'Asia/Jakarta';
 
   let now = new Date();
 
