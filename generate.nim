@@ -81,6 +81,9 @@ writeFile("yo.md", &"""<p align="center">
 </details>
 
 ---
+<div align='center'>
+  <img align="center" src="https://count.getloli.com/get/@AzharRizky?theme=rule34" alt="Zulma's GitHub Visitor statistics" time="Zulma's GitHub Visitor statistics" />
+</div>
 <p align="center">
   <a href="https://github.com/AzharRizky/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
