@@ -73,6 +73,9 @@
 </details>
 
 ---
+<div align='center'>
+  <img align="center" src="https://count.getloli.com/get/@AzharRizky?theme=rule34" alt="Zulma's GitHub Visitor statistics" time="Zulma's GitHub Visitor statistics" />
+</div>
 <p align="center">
   <a href="https://github.com/AzharRizky/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AzharRizky&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
@@ -90,6 +93,7 @@
     <img src="https://profile-counter.glitch.me/AzharRizky/count.svg" height="20"/>
   </a>
   <!--
+    ![Profile](https://github-widgetbox.vercel.app/api/profile?username=AzharRizky&data=followers,repositories,stars,commits)
   <img src="https://gpvc.arturio.dev/AzharRizky" alt="Profile Views" height="20">
   <a href="https://badges.pufler.dev" target="_blank">
       <img src="https://badges.pufler.dev/created/AzharRizky/AzharRizky?style=flat-square" alt="Created Badge"/>
