@@ -15,5 +15,5 @@
               # Use this username's contribution graph  
               user_name: ${{ github.repository_owner }}
               # Text on contribution graph 
-              text: JOE HAWK
+              text: 黒の春
         - uses: jasineri/simple-push-action@v2
