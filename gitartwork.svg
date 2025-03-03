@@ -27,7 +27,987 @@
     .c {
         animation-iteration-count: infinite;
         animation-duration: 5s;
-    }</style>
+    }
+@keyframes c0 {
+                from {
+transform: rotate(-408deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c0 {
+                animation-name: c0
+            }
+@keyframes c1 {
+                from {
+transform: rotate(-399deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c1 {
+                animation-name: c1
+            }
+@keyframes c2 {
+                from {
+transform: rotate(409deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c2 {
+                animation-name: c2
+            }
+@keyframes c3 {
+                from {
+transform: rotate(-355deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c3 {
+                animation-name: c3
+            }
+@keyframes c4 {
+                from {
+transform: rotate(-684deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c4 {
+                animation-name: c4
+            }
+@keyframes c5 {
+                from {
+transform: rotate(-282deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c5 {
+                animation-name: c5
+            }
+@keyframes c6 {
+                from {
+transform: rotate(498deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c6 {
+                animation-name: c6
+            }
+@keyframes c7 {
+                from {
+transform: rotate(701deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c7 {
+                animation-name: c7
+            }
+@keyframes c8 {
+                from {
+transform: rotate(270deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c8 {
+                animation-name: c8
+            }
+@keyframes c9 {
+                from {
+transform: rotate(595deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c9 {
+                animation-name: c9
+            }
+@keyframes c10 {
+                from {
+transform: rotate(-668deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c10 {
+                animation-name: c10
+            }
+@keyframes c11 {
+                from {
+transform: rotate(-683deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c11 {
+                animation-name: c11
+            }
+@keyframes c12 {
+                from {
+transform: rotate(469deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c12 {
+                animation-name: c12
+            }
+@keyframes c13 {
+                from {
+transform: rotate(685deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c13 {
+                animation-name: c13
+            }
+@keyframes c14 {
+                from {
+transform: rotate(-515deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c14 {
+                animation-name: c14
+            }
+@keyframes c15 {
+                from {
+transform: rotate(-482deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c15 {
+                animation-name: c15
+            }
+@keyframes c16 {
+                from {
+transform: rotate(-238deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c16 {
+                animation-name: c16
+            }
+@keyframes c17 {
+                from {
+transform: rotate(643deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c17 {
+                animation-name: c17
+            }
+@keyframes c18 {
+                from {
+transform: rotate(-541deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c18 {
+                animation-name: c18
+            }
+@keyframes c19 {
+                from {
+transform: rotate(486deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c19 {
+                animation-name: c19
+            }
+@keyframes c20 {
+                from {
+transform: rotate(-600deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c20 {
+                animation-name: c20
+            }
+@keyframes c21 {
+                from {
+transform: rotate(353deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c21 {
+                animation-name: c21
+            }
+@keyframes c22 {
+                from {
+transform: rotate(-436deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c22 {
+                animation-name: c22
+            }
+@keyframes c23 {
+                from {
+transform: rotate(-141deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c23 {
+                animation-name: c23
+            }
+@keyframes c24 {
+                from {
+transform: rotate(-52deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c24 {
+                animation-name: c24
+            }
+@keyframes c25 {
+                from {
+transform: rotate(-566deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c25 {
+                animation-name: c25
+            }
+@keyframes c26 {
+                from {
+transform: rotate(-215deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c26 {
+                animation-name: c26
+            }
+@keyframes c27 {
+                from {
+transform: rotate(-444deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c27 {
+                animation-name: c27
+            }
+@keyframes c28 {
+                from {
+transform: rotate(-495deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c28 {
+                animation-name: c28
+            }
+@keyframes c29 {
+                from {
+transform: rotate(-272deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c29 {
+                animation-name: c29
+            }
+@keyframes c30 {
+                from {
+transform: rotate(-704deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c30 {
+                animation-name: c30
+            }
+@keyframes c31 {
+                from {
+transform: rotate(-318deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c31 {
+                animation-name: c31
+            }
+@keyframes c32 {
+                from {
+transform: rotate(448deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c32 {
+                animation-name: c32
+            }
+@keyframes c33 {
+                from {
+transform: rotate(-706deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c33 {
+                animation-name: c33
+            }
+@keyframes c34 {
+                from {
+transform: rotate(86deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c34 {
+                animation-name: c34
+            }
+@keyframes c35 {
+                from {
+transform: rotate(-292deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c35 {
+                animation-name: c35
+            }
+@keyframes c36 {
+                from {
+transform: rotate(253deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c36 {
+                animation-name: c36
+            }
+@keyframes c37 {
+                from {
+transform: rotate(240deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c37 {
+                animation-name: c37
+            }
+@keyframes c38 {
+                from {
+transform: rotate(555deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c38 {
+                animation-name: c38
+            }
+@keyframes c39 {
+                from {
+transform: rotate(-112deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c39 {
+                animation-name: c39
+            }
+@keyframes c40 {
+                from {
+transform: rotate(-423deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c40 {
+                animation-name: c40
+            }
+@keyframes c41 {
+                from {
+transform: rotate(-646deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c41 {
+                animation-name: c41
+            }
+@keyframes c42 {
+                from {
+transform: rotate(-125deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c42 {
+                animation-name: c42
+            }
+@keyframes c43 {
+                from {
+transform: rotate(-415deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c43 {
+                animation-name: c43
+            }
+@keyframes c44 {
+                from {
+transform: rotate(-582deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c44 {
+                animation-name: c44
+            }
+@keyframes c45 {
+                from {
+transform: rotate(-168deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c45 {
+                animation-name: c45
+            }
+@keyframes c46 {
+                from {
+transform: rotate(-232deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c46 {
+                animation-name: c46
+            }
+@keyframes c47 {
+                from {
+transform: rotate(107deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c47 {
+                animation-name: c47
+            }
+@keyframes c48 {
+                from {
+transform: rotate(362deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c48 {
+                animation-name: c48
+            }
+@keyframes c49 {
+                from {
+transform: rotate(-44deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c49 {
+                animation-name: c49
+            }
+@keyframes c50 {
+                from {
+transform: rotate(679deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c50 {
+                animation-name: c50
+            }
+@keyframes c51 {
+                from {
+transform: rotate(-139deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c51 {
+                animation-name: c51
+            }
+@keyframes c52 {
+                from {
+transform: rotate(-568deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c52 {
+                animation-name: c52
+            }
+@keyframes c53 {
+                from {
+transform: rotate(-391deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c53 {
+                animation-name: c53
+            }
+@keyframes c54 {
+                from {
+transform: rotate(-686deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c54 {
+                animation-name: c54
+            }
+@keyframes c55 {
+                from {
+transform: rotate(373deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c55 {
+                animation-name: c55
+            }
+@keyframes c56 {
+                from {
+transform: rotate(478deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c56 {
+                animation-name: c56
+            }
+@keyframes c57 {
+                from {
+transform: rotate(-492deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c57 {
+                animation-name: c57
+            }
+@keyframes c58 {
+                from {
+transform: rotate(499deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c58 {
+                animation-name: c58
+            }
+@keyframes c59 {
+                from {
+transform: rotate(625deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c59 {
+                animation-name: c59
+            }
+@keyframes c60 {
+                from {
+transform: rotate(699deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c60 {
+                animation-name: c60
+            }
+@keyframes c61 {
+                from {
+transform: rotate(-349deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c61 {
+                animation-name: c61
+            }
+@keyframes c62 {
+                from {
+transform: rotate(-165deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c62 {
+                animation-name: c62
+            }
+@keyframes c63 {
+                from {
+transform: rotate(-307deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c63 {
+                animation-name: c63
+            }
+@keyframes c64 {
+                from {
+transform: rotate(-60deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c64 {
+                animation-name: c64
+            }
+@keyframes c65 {
+                from {
+transform: rotate(103deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c65 {
+                animation-name: c65
+            }
+@keyframes c66 {
+                from {
+transform: rotate(-390deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c66 {
+                animation-name: c66
+            }
+@keyframes c67 {
+                from {
+transform: rotate(-143deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c67 {
+                animation-name: c67
+            }
+@keyframes c68 {
+                from {
+transform: rotate(418deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c68 {
+                animation-name: c68
+            }
+@keyframes c69 {
+                from {
+transform: rotate(-447deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c69 {
+                animation-name: c69
+            }</style>
 <g transform="translate(15, 20)">
 <g transform="translate(0, 0)">
 <rect width="11" height="11" x="16" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -57,19 +1037,19 @@
 <rect width="11" height="11" x="14" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(48, 0)">
-<rect width="11" height="11" x="13" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="13" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="13" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="13" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="13" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="13" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="13" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="13" y="0" data-level="0" rx="2" ry="2" class="o c c0"></rect>
+<rect width="11" height="11" x="13" y="15" data-level="0" rx="2" ry="2" class="o c c1"></rect>
+<rect width="11" height="11" x="13" y="30" data-level="0" rx="2" ry="2" class="o c c2"></rect>
+<rect width="11" height="11" x="13" y="45" data-level="0" rx="2" ry="2" class="o c c3"></rect>
+<rect width="11" height="11" x="13" y="60" data-level="0" rx="2" ry="2" class="o c c4"></rect>
+<rect width="11" height="11" x="13" y="75" data-level="0" rx="2" ry="2" class="o c c5"></rect>
+<rect width="11" height="11" x="13" y="90" data-level="0" rx="2" ry="2" class="o c c6"></rect>
 </g>
 <g transform="translate(64, 0)">
 <rect width="11" height="11" x="12" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="12" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="12" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="12" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="12" y="45" data-level="0" rx="2" ry="2" class="o c c7"></rect>
 <rect width="11" height="11" x="12" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="12" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="12" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -78,7 +1058,7 @@
 <rect width="11" height="11" x="11" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="11" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="11" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="11" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="11" y="45" data-level="0" rx="2" ry="2" class="o c c8"></rect>
 <rect width="11" height="11" x="11" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="11" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="11" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -87,19 +1067,19 @@
 <rect width="11" height="11" x="10" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="10" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="10" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="10" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="10" y="45" data-level="0" rx="2" ry="2" class="o c c9"></rect>
 <rect width="11" height="11" x="10" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="10" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="10" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(112, 0)">
-<rect width="11" height="11" x="9" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="9" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="9" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="9" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="9" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="9" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="9" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="9" y="0" data-level="0" rx="2" ry="2" class="o c c10"></rect>
+<rect width="11" height="11" x="9" y="15" data-level="0" rx="2" ry="2" class="o c c11"></rect>
+<rect width="11" height="11" x="9" y="30" data-level="0" rx="2" ry="2" class="o c c12"></rect>
+<rect width="11" height="11" x="9" y="45" data-level="0" rx="2" ry="2" class="o c c13"></rect>
+<rect width="11" height="11" x="9" y="60" data-level="0" rx="2" ry="2" class="o c c14"></rect>
+<rect width="11" height="11" x="9" y="75" data-level="0" rx="2" ry="2" class="o c c15"></rect>
+<rect width="11" height="11" x="9" y="90" data-level="0" rx="2" ry="2" class="o c c16"></rect>
 </g>
 <g transform="translate(128, 0)">
 <rect width="11" height="11" x="8" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -116,44 +1096,44 @@
 <rect width="11" height="11" x="7" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="7" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="7" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="7" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="7" y="75" data-level="0" rx="2" ry="2" class="o c c17"></rect>
 <rect width="11" height="11" x="7" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(160, 0)">
 <rect width="11" height="11" x="6" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="6" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="6" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="6" y="30" data-level="0" rx="2" ry="2" class="o c c18"></rect>
 <rect width="11" height="11" x="6" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="6" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="6" y="60" data-level="0" rx="2" ry="2" class="o c c19"></rect>
 <rect width="11" height="11" x="6" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="6" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="6" y="90" data-level="0" rx="2" ry="2" class="o c c20"></rect>
 </g>
 <g transform="translate(176, 0)">
 <rect width="11" height="11" x="5" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="5" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="5" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="5" y="30" data-level="0" rx="2" ry="2" class="o c c21"></rect>
 <rect width="11" height="11" x="5" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="5" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="5" y="60" data-level="0" rx="2" ry="2" class="o c c22"></rect>
 <rect width="11" height="11" x="5" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="5" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="5" y="90" data-level="0" rx="2" ry="2" class="o c c23"></rect>
 </g>
 <g transform="translate(192, 0)">
 <rect width="11" height="11" x="4" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="4" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="4" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="4" y="30" data-level="0" rx="2" ry="2" class="o c c24"></rect>
 <rect width="11" height="11" x="4" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="4" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="4" y="60" data-level="0" rx="2" ry="2" class="o c c25"></rect>
 <rect width="11" height="11" x="4" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="4" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="4" y="90" data-level="0" rx="2" ry="2" class="o c c26"></rect>
 </g>
 <g transform="translate(208, 0)">
 <rect width="11" height="11" x="3" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="3" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="3" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="3" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="3" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="3" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="3" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="3" y="45" data-level="0" rx="2" ry="2" class="o c c27"></rect>
+<rect width="11" height="11" x="3" y="60" data-level="0" rx="2" ry="2" class="o c c28"></rect>
+<rect width="11" height="11" x="3" y="75" data-level="0" rx="2" ry="2" class="o c c29"></rect>
+<rect width="11" height="11" x="3" y="90" data-level="0" rx="2" ry="2" class="o c c30"></rect>
 </g>
 <g transform="translate(224, 0)">
 <rect width="11" height="11" x="2" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -167,17 +1147,17 @@
 <g transform="translate(240, 0)">
 <rect width="11" height="11" x="1" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="1" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="1" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="1" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="1" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="1" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="1" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="1" y="30" data-level="0" rx="2" ry="2" class="o c c31"></rect>
+<rect width="11" height="11" x="1" y="45" data-level="0" rx="2" ry="2" class="o c c32"></rect>
+<rect width="11" height="11" x="1" y="60" data-level="0" rx="2" ry="2" class="o c c33"></rect>
+<rect width="11" height="11" x="1" y="75" data-level="0" rx="2" ry="2" class="o c c34"></rect>
+<rect width="11" height="11" x="1" y="90" data-level="0" rx="2" ry="2" class="o c c35"></rect>
 </g>
 <g transform="translate(256, 0)">
 <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="0" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o c c36"></rect>
 <rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -185,7 +1165,7 @@
 <g transform="translate(272, 0)">
 <rect width="11" height="11" x="-1" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-1" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-1" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-1" y="30" data-level="0" rx="2" ry="2" class="o c c37"></rect>
 <rect width="11" height="11" x="-1" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-1" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-1" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -194,7 +1174,7 @@
 <g transform="translate(288, 0)">
 <rect width="11" height="11" x="-2" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-2" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-2" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-2" y="30" data-level="0" rx="2" ry="2" class="o c c38"></rect>
 <rect width="11" height="11" x="-2" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-2" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-2" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -204,7 +1184,7 @@
 <rect width="11" height="11" x="-3" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-3" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-3" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-3" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-3" y="45" data-level="0" rx="2" ry="2" class="o c c39"></rect>
 <rect width="11" height="11" x="-3" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-3" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-3" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -221,10 +1201,10 @@
 <g transform="translate(336, 0)">
 <rect width="11" height="11" x="-5" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-5" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-5" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-5" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-5" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-5" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-5" y="30" data-level="0" rx="2" ry="2" class="o c c40"></rect>
+<rect width="11" height="11" x="-5" y="45" data-level="0" rx="2" ry="2" class="o c c41"></rect>
+<rect width="11" height="11" x="-5" y="60" data-level="0" rx="2" ry="2" class="o c c42"></rect>
+<rect width="11" height="11" x="-5" y="75" data-level="0" rx="2" ry="2" class="o c c43"></rect>
 <rect width="11" height="11" x="-5" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(352, 0)">
@@ -234,7 +1214,7 @@
 <rect width="11" height="11" x="-6" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-6" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-6" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-6" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-6" y="90" data-level="0" rx="2" ry="2" class="o c c44"></rect>
 </g>
 <g transform="translate(368, 0)">
 <rect width="11" height="11" x="-7" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -243,7 +1223,7 @@
 <rect width="11" height="11" x="-7" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-7" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-7" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-7" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-7" y="90" data-level="0" rx="2" ry="2" class="o c c45"></rect>
 </g>
 <g transform="translate(384, 0)">
 <rect width="11" height="11" x="-8" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -251,17 +1231,17 @@
 <rect width="11" height="11" x="-8" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-8" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-8" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-8" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-8" y="75" data-level="0" rx="2" ry="2" class="o c c46"></rect>
 <rect width="11" height="11" x="-8" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(400, 0)">
 <rect width="11" height="11" x="-9" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-9" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-9" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-9" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-9" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-9" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-9" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-9" y="30" data-level="0" rx="2" ry="2" class="o c c47"></rect>
+<rect width="11" height="11" x="-9" y="45" data-level="0" rx="2" ry="2" class="o c c48"></rect>
+<rect width="11" height="11" x="-9" y="60" data-level="0" rx="2" ry="2" class="o c c49"></rect>
+<rect width="11" height="11" x="-9" y="75" data-level="0" rx="2" ry="2" class="o c c50"></rect>
+<rect width="11" height="11" x="-9" y="90" data-level="0" rx="2" ry="2" class="o c c51"></rect>
 </g>
 <g transform="translate(416, 0)">
 <rect width="11" height="11" x="-10" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -345,13 +1325,13 @@
 <rect width="11" height="11" x="-18" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(560, 0)">
-<rect width="11" height="11" x="-19" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-19" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-19" y="0" data-level="0" rx="2" ry="2" class="o c c52"></rect>
+<rect width="11" height="11" x="-19" y="15" data-level="0" rx="2" ry="2" class="o c c53"></rect>
+<rect width="11" height="11" x="-19" y="30" data-level="0" rx="2" ry="2" class="o c c54"></rect>
+<rect width="11" height="11" x="-19" y="45" data-level="0" rx="2" ry="2" class="o c c55"></rect>
+<rect width="11" height="11" x="-19" y="60" data-level="0" rx="2" ry="2" class="o c c56"></rect>
+<rect width="11" height="11" x="-19" y="75" data-level="0" rx="2" ry="2" class="o c c57"></rect>
+<rect width="11" height="11" x="-19" y="90" data-level="0" rx="2" ry="2" class="o c c58"></rect>
 </g>
 <g transform="translate(576, 0)">
 <rect width="11" height="11" x="-20" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
@@ -440,7 +1420,7 @@
 <rect width="11" height="11" x="-29" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-29" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-29" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-29" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-29" y="75" data-level="0" rx="2" ry="2" class="o c c59"></rect>
 <rect width="11" height="11" x="-29" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(736, 0)">
@@ -450,28 +1430,28 @@
 <rect width="11" height="11" x="-30" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-30" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-30" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-30" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-30" y="90" data-level="0" rx="2" ry="2" class="o c c60"></rect>
 </g>
 <g transform="translate(752, 0)">
-<rect width="11" height="11" x="-31" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-31" y="0" data-level="0" rx="2" ry="2" class="o c c61"></rect>
 <rect width="11" height="11" x="-31" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-31" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-31" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-31" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-31" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-31" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-31" y="90" data-level="0" rx="2" ry="2" class="o c c62"></rect>
 </g>
 <g transform="translate(768, 0)">
-<rect width="11" height="11" x="-32" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-32" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-32" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-32" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-32" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
-<rect width="11" height="11" x="-32" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-32" y="0" data-level="0" rx="2" ry="2" class="o c c63"></rect>
+<rect width="11" height="11" x="-32" y="15" data-level="0" rx="2" ry="2" class="o c c64"></rect>
+<rect width="11" height="11" x="-32" y="30" data-level="0" rx="2" ry="2" class="o c c65"></rect>
+<rect width="11" height="11" x="-32" y="45" data-level="0" rx="2" ry="2" class="o c c66"></rect>
+<rect width="11" height="11" x="-32" y="60" data-level="0" rx="2" ry="2" class="o c c67"></rect>
+<rect width="11" height="11" x="-32" y="75" data-level="0" rx="2" ry="2" class="o c c68"></rect>
 <rect width="11" height="11" x="-32" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
 </g>
 <g transform="translate(784, 0)">
-<rect width="11" height="11" x="-33" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+<rect width="11" height="11" x="-33" y="0" data-level="0" rx="2" ry="2" class="o c c69"></rect>
 <rect width="11" height="11" x="-33" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-33" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
 <rect width="11" height="11" x="-33" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
